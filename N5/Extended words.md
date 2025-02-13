@@ -92,7 +92,7 @@
 
 スーパー　 supermarket
 
-コンビニ　 convenience store
+コンビニ　コンビニエンスストア　 convenience store
 
 銀行　ぎんこう
 
@@ -193,3 +193,39 @@
 浅草　あさくさ
 
 山手線　やまのてせん
+
+---
+
+動物
+
+パンダ　 panda
+
+ライオン　 lion
+
+虎　とら
+
+象　ぞう
+
+犬　いぬ
+
+猫　ねこ
+
+---
+
+スポーツ
+
+バレーボール　 volleyball
+
+バスケットボール　 basketball
+
+ラグビー　 rugby
+
+テニス　 tennis
+
+ゴルフ　 golf
+
+柔道　じゅうどう
+
+マラソン　 marathon
+
+駅伝　えきでん
