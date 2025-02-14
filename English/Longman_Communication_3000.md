@@ -491,3 +491,5 @@ beard n
 brief adj
 
 circumstance n
+
+frustrating adj
