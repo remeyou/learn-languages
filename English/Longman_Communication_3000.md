@@ -493,3 +493,231 @@ brief adj
 circumstance n
 
 frustrating adj
+
+each other pron
+
+ease v
+
+effort n
+
+elect v
+
+election n
+
+emerge v
+
+emergency n
+
+emphasize v
+
+emphasis n
+
+enormous adj
+
+enquiry n
+
+enthusiasm n
+
+entire adj
+
+entitle v
+
+envelope n
+
+era n
+
+essential adj
+
+essentially adv
+
+estate n
+
+estimate n v
+
+ethnic adj
+
+eventually adv
+
+examination n
+
+examine v
+
+exception n
+
+except v
+
+executive adj n
+
+expenditure n
+
+expense n
+
+expensive adj
+
+expose v
+
+express v
+
+expression n
+
+extent n
+
+facility n
+
+fair adj adv
+
+fairly adv
+
+familiar adj
+
+fancy adj v
+
+fascinating adj
+
+fault n
+
+feature n v
+
+federal adj
+
+fellow n
+
+figure n v
+
+file n v
+
+filthy adj
+
+finance n v
+
+financial adj
+
+firm n adj
+
+flat n
+
+flavour n
+
+flesh n
+
+folk n
+
+following adj
+
+formal adj
+
+formation n
+
+former adj
+
+formula n
+
+forth adv
+
+fortnight n
+
+frankly adv
+
+fridge n
+
+fry v
+
+fuel n
+
+fulfil v
+
+fund n v
+
+fundamental adj
+
+funeral n
+
+furniture n
+
+further adv
+
+fuss n
+
+gang n
+
+garage n
+
+garlic n
+
+gasoline n
+
+gather v
+
+gene n
+
+general adj
+
+generally adj
+
+generation n
+
+generous adj
+
+genuine adj
+
+glance n
+
+glove n
+
+goodness n
+
+gosh int
+
+grab v
+
+gradually adv
+
+gram n
+
+granny n
+
+grant n v
+
+grateful adj
+
+grocery n
+
+gross adj
+
+guarantee n v
+
+guard n
+
+guidance n
+
+habit n
+
+handle n
+
+handy adj
+
+hang v
+
+hardly adv
+
+headquarters n
+
+heating n
+
+hence adv
+
+hesitate v
+
+highlight v
+
+holder n
+
+holding n
+
+honour n
+
+household n
+
+ideal adj
+
+ideally adv
