@@ -1,1075 +1,1459 @@
 # Longman Communication 3000
 
-dump v
-
-occasional adj
-
-cease v
-
-consistent adj
-
-assist v
-
-curious adj
-
-airline n
-
-determine v
-
-absence n
-
-deposit n
-
-debt n
-
-anxious adj
-
-announcement n
-
-chap n
-
-distinct adj
-
-contemporary adj
-
-angle n
-
-directory n
-
-decent adj
-
-demonstrate v
-
-estate n
-
-democracy n
-
-cope v
-
-abroad adv
-
-address v
-
-bump v
-
-chip n
-
-distinction n
-
-anyhow adv
-
-civil adj
-
-election n
-
-considerably adv
-
-bury v
-
-enquiry n
-
-behalf n
-
-bin n
-
-confusing adj
-
-cottage n
-
-climate n
-
-assess v
-
-council n
-
-committee n
-
-crew n
-
-assignment n
-
-awareness n
-
-estimate n v
-
-initiative n
-
-injury n
-
-formula n
-
-glance n
-
-intervention n
-
-intend v
-
-federal adj
-
-current n
-
-cushion n
-
-confusion n
-
-constitute v
-
-bake v
-
-cheque n
-
-inform v
-
-bath n
-
-chest n
-
-fuel n
-
-inflation n
-
-cheek n
-
-examine v
-
-capable adj
-
-aware adj
-
-investigation n
-
-contract n
-
-interval n
-
-interpretation n
-
-account v
-
-keen adj
-
-intelligent adj
-
-insect n
-
-discipline n
-
-feature n v
-
-assistant n
-
-cruel adj
-
-institution n
-
-confine v
-
-involvement n
-
-cotton n
-
-alcohol n
-
-adopt v
-
-appoint v
-
-clue n
-
-accommodation n
-
-conventional adj
-
-except v
-
-appeal n v
-
-lane n
-
-leading adj
-
-investment n
-
-lively adj
-
-adviser n
-
-manner n
-
-interpret v
-
-alongside adv prep
-
-band n
-
-expenditure n
-
-literature n
-
-jam n
-
-injure v
-
-lid n
-
-cupboard n
-
-consent n
-
-inspection n
-
-latter n
-
-formation n
-
-lad n
-
-gasoline n
-
-backwards adv
-
-informal adj
-
-lay v
-
-extent n
-
-fulfil v
-
-genuine adj
-
-acknowledge v
-
-figure n v
-
-depression n
-
-lean v
-
-literally adv
-
-justify v
-
-manufacturer n
-
-long-term adj
-
-likely adv
-
-contrast n
-
-award v
-
-pile n
-
-means n
-
-crucial adj
-
-numerous adj
-
-characteristic n
-
-former adj
-
-lecture n
-
-creature n
-
-dumb adj
-
-bend v
-
-accuse v
-
-fairly adv
-
-consult v
-
-abuse n
-
-hardly adv
-
-essentially adv
-
-crop n
-
-emphasize v
-
-impact n
-
-desert n
-
-motion n
-
-massive adj
-
-expose v
-
-guard n
-
-domestic adj
-
-facility n
-
-opponent n
-
-assessment n
-
-campaign n
-
-bound adj
-
-cabinet n
-
-object v
-
-absorb v
-
-objective n
-
-formal adj
-
-parcel n
-
-guidance n
-
-imply v
-
-ideally adv
-
-alter v
-
-arise v
-
-ease v
-
-fuss n
-
-considerable adj
-
-enormous adj
-
-assistance n
-
-misery n
-
-holding n
-
-ounce n
-
-packet n
-
-era n
-
-living n
-
-furniture n
-
-grant n v
-
-file n v
-
-briefly adv
-
-borrow v
-
-folk n
-
-crowd n
-
-appropriate adj
-
-mess n v
-
-divorce n
-
-access n
-
-phase n
-
-fault n
-
-corridor n
-
-ideal adj
-
-fortnight n
-
-cereal n
-
-ownership n
-
-approximate adj
-
-diet n
-
-moreover adv
-
-blow v n
-
-advance n v
-
-headquarters n
-
-breast n
-
-heating n
-
-executive adj n
-
-frustrating adj
-
-affair n
-
-crisis n
-
-gradually adv
-
-aspect n
-
-democratic adj
-
-persuade v
-
-beforehand adv
-
-millimeter n
-
-expense n
-
-naughty adj
-
-bet v n
-
-nod v
-
-bang v n
-
-opportunity n
-
-examination n
-
-pint n
-
-daft adj
-
-holder n
-
-fascinating adj
-
-gather v
-
-closet n
-
-construct v
-
-conscious adj
-
-incident n
-
-chief adj n
-
-inevitable adj
-
-owner n
-
-curve n
-
-lamb n
-
-organ n
-
-conduct v n
-
-emphasis n
-
-division n
-
-general adj
-
-expression n
-
-kettle n
-
-constantly adv
-
-dig v
-
-confused adj
-
-awkward adj
-
-laboratory n
+bloke n
 
 departure n
 
-accurate adj
+bend v
 
-hence adv
+backwards adv
 
-bacon n
+investment n
 
-perceive v
+leading adj
 
-critic n
+curve n
 
-buddy n
+lad n
 
-mineral n
+cupboard n
 
-owe v
+adviser n
 
-firm n adj
+contrast n
 
-legislation n
+conscious adj
 
-appearance n
+grant n v
 
-hang v
+confused adj
 
-apparent adj
+genuine adj
 
-mass n adj
+dig v
 
-oppose v
+alongside adv prep
 
-achievement n
+borrow v
 
-officer n
+formation n
 
-centimeter n
+approximate adj
 
-implication n
+justify v
 
-labour n
-
-notably adv
-
-lower v
-
-pitch n
-
-lump n
-
-liberal adj
-
-nil n
-
-distribute v
-
-nevertheless adv
-
-fund n v
-
-expensive adj
-
-gross adj
-
-frankly adv
-
-forth adv
-
-distribution n
-
-convention n
-
-colleague n
-
-concept n
-
-investigate v
-
-attach v
-
-department n
-
-march v n
-
-neck n
-
-leisure n
-
-despite prep
-
-chop v
-
-characterize v
-
-pin n
-
-lick v
-
-habit n
-
-broad adj
-
-acid n
-
-emerge v
-
-coal n
-
-carpet n
-
-motor n
-
-impose v
-
-objection n
-
-grab v
-
-achieve v
-
-disappoint v
-
-decline n v
-
-debate n
-
-candidate n
-
-inquiry n
-
-determination n
-
-medieval adj
-
-belt n
-
-dull adj
-
-pepper n
-
-nail n
-
-cable n
-
-permanent adj
-
-desperate adj
-
-appointment n
-
-argue v
-
-occupy v
-
-claim n v
-
-entitle v
-
-fridge n
-
-glove n
-
-express v
-
-county n
-
-plane n
-
-essential adj
-
-offense n
-
-pension n
-
-admire v
-
-arrange v
-
-infection n
-
-collar n
-
-grateful adj
-
-petrol n
-
-ought to modal
-
-otherwise adv
-
-occupation n
-
-comprehensive adj
-
-handle n
-
-lamp n
+construct v
 
 occur v
 
-demonstration n
+fortnight n
 
-ethnic adj
+fuel n
 
-military adj
+lively adj
 
-overtime n
+formula n
 
-opposition n
+habit n
 
-bid n
+phase n
 
-envelope n
+insect n
 
-bear v
+chief adj n
 
-generally adj
+means n
 
-attorney n
+department n
 
-derive v
+capable adj
 
-admission n
+current n
 
-acquire v
+inquiry n
 
-assume v
+figure n v
 
-pace n
+assistant n
 
-intelligence n
+corridor n
 
-apart adv adj
+clue n
 
-fundamental adj
+cruel adj
 
-bloke n
+convention n
 
-custom n
+democratic adj
 
-invest v
+broad adj
 
-fancy adj v
+demonstrate v
 
-fry v
+persuade v
 
-generous adj
+cotton n
 
-pan n
+conventional adj
 
-nerve n
+frustrating adj
 
-buck n
+jam n
 
-landlord n
+concept n
 
-occasionally adv
+opportunity n
 
-boiler n
+attach v
 
-artificial adj
+except v
 
-dispute n
+emphasis n
 
-arrangement n
+lump n
 
-following adj
+forth adv
 
-filthy adj
+lay v
 
-independence n
+investigate v
 
-marvelous adj
+motor n
 
-dentist n
+ownership n
 
-degree n
+manner n
 
-argument n
+dull adj
 
-mental adj
+consistent adj
 
-perspective n
-
-lorry n
-
-garlic n
+interpret v
 
 obligation n
 
-courage n
+distribution n
 
-intention n
+boiler n
 
-ministry n
+pile n
 
-closely adv
+source n
 
-ceiling n
+produce v
 
-consequence n
+officer n
 
-brief adj
+potential adj n
 
-convince v
+division n
 
-personnel n
+prosecution n
 
-conference n
+representative n
 
-bit adv pron n
+resident n
 
-intellectual adj
+qualification n
 
-authority n
+constantly adv
 
-budget n
+lean v
 
-along adv prep
+inflation n
 
-flat n
+characteristic n
 
-organic adj
+radical adj
 
-distinguish v
+medieval adj
 
-entire adj
+beforehand adv
 
-effort n
+distinct adj
 
 elect v
 
-mortgage n
+pudding n
 
-nonsense n
-
-chuck v
-
-commission n
-
-gram n
-
-circumstance n
-
-innovation n
-
-architecture n
-
-advert n
-
-outcome n
-
-announce v
-
-hesitate v
-
-anxiety n
-
-phrase n
-
-nasty adj
-
-opposite prep
-
-anticipate v
-
-bunch n
-
-deaf adj n
-
-household n
-
-each other pron
-
-inspector n
-
-occasion n
-
-conviction n
-
-literary adj
+fancy adj v
 
 personality n
 
-nuisance n
+assist v
 
-corn n
+frankly adv
 
-architect n
+dispute n
 
-bitter adj
-
-mere adj
-
-grocery n
-
-metal n
-
-beard n
-
-fellow n
-
-activist n
-
-exception n
-
-minister n
-
-insurance n
-
-enthusiasm n
-
-narrow adj
-
-intense adj
-
-manufacturing n
-
-inevitably adv
-
-incorporate v
-
-illustrate v
-
-eventually adv
-
-familiar adj
-
-gang n
-
-financial adj
-
-finance n v
-
-boom n
-
-marketing n
-
-infant n
-
-against prep
-
-loan n
-
-guarantee n v
-
-apparently adv
-
-consumption n
-
-jury n
-
-district n
-
-handy adj
-
-determined adj
-
-flavour n
-
-garage n
-
-odds n
-
-clever adj
-
-deliberately adv
-
-continuous adj
-
-criterion n
-
-beneath adv prep
-
-highlight v
-
-gene n
-
-allowance n
-
-assign v
-
-messy adj
-
-curtain n
-
-negotiate v
-
-perform v
-
-decade n
-
-cross adj n v
-
-charity n
-
-institute n
-
-cast v
-
-honour n
-
-oven n
-
-journalist n
-
-fair adj adv
-
-disease n
-
-clerk n
+privilege n
 
 mechanism n
 
-nut n
+neat adj
 
-consciousness n
+ceiling n
 
-one another pron
+disease n
 
-penalty n
+entitle v
 
-funeral n
+seek v
 
-further adv
+mental adj
 
-capital n adj
+roughly adv
 
-notion n
+crucial adj
 
-barrier n
-
-goodness n
-
-moral adj
-
-generation n
-
-granny n
-
-parliament n
-
-distant adj
-
-aircraft n
-
-adequate adj
-
-gosh int
-
-overall adj
-
-outstanding adj
-
-bench n
-
-blonde adj
-
-flesh n
-
-lounge n
+along adv prep
 
 constant adj
 
-neat adj
+nail n
 
-annual adj
+long-term adj
+
+invest v
+
+handle n
+
+severe adj
+
+plenty pron
+
+claim n v
+
+aware adj
+
+fulfil v
+
+adequate adj
+
+capital n adj
+
+outcome n
+
+nut n
+
+outstanding adj
+
+essentially adv
+
+scale n
+
+depression n
+
+determination n
+
+promote v
+
+revolution n
+
+bump v
+
+bath n
+
+profession n
+
+lane n
+
+mess n v
+
+closely adv
+
+cereal n
+
+significantly adv
+
+penalty n
+
+advance n v
+
+appointment n
+
+several pron
+
+sew v
+
+election n
+
+prevent v
+
+determine v
+
+contract n
+
+federal adj
+
+reputation n
+
+purse n
+
+parliament n
+
+debt n
+
+executive adj n
+
+envelope n
+
+recover v
+
+serious adj
+
+shed n
+
+poetry n
+
+plot n
+
+propose v
+
+liberal adj
+
+belt n
+
+regularly adv
+
+pub n
+
+occasional adj
+
+cabinet n
+
+bench n
+
+entire adj
+
+handy adj
+
+bear v
+
+scheme n
+
+secretary n
+
+discipline n
+
+slope n
+
+objection n
+
+chop v
+
+address v
+
+sequence n
+
+parcel n
+
+assignment n
+
+apparently adv
+
+pint n
+
+manufacturer n
+
+arrangement n
+
+cross adj n v
+
+objective n
+
+expose v
+
+bet v n
+
+gosh int
+
+kettle n
+
+sector n
+
+respectively adv
+
+alter v
+
+nonsense n
+
+folk n
+
+grab v
+
+odds n
+
+flat n
+
+legislation n
+
+appoint v
+
+sake n
+
+bid n
+
+involvement n
+
+rubber n
+
+buddy n
+
+responsibility n
+
+desperate adj
+
+consequence n
+
+reduction n
+
+era n
+
+centimeter n
+
+contemporary adj
+
+funeral n
+
+quantity n
+
+critic n
+
+chip n
+
+relieve v
+
+regular adj
+
+pace n
+
+pole n
+
+examine v
+
+qualify v
+
+barrier n
+
+overall adj
+
+loan n
+
+further adv
+
+characterize v
+
+pan n
+
+signature n
+
+cast v
+
+hardly adv
+
+sack n
+
+reserve n v
+
+appearance n
+
+admire v
+
+numerous adj
+
+landlord n
+
+airline n
+
+routine n
+
+cease v
+
+poverty n
+
+principal adj
+
+fascinating adj
+
+institute n
+
+prompt adj
+
+anyhow adv
+
+district n
+
+priority n
+
+file n v
+
+guarantee n v
+
+slim adj
+
+registration n
+
+comprehensive adj
+
+gang n
+
+slip n
+
+readily adv
+
+facility n
+
+regime n
+
+occasionally adv
+
+bit adv pron n
+
+debate n
+
+labour n
+
+nod v
+
+holder n
+
+scratch v
+
+former adj
+
+custom n
+
+screw n
+
+naughty adj
+
+anxiety n
+
+aspect n
+
+generous adj
+
+gram n
+
+phrase n
+
+bin n
+
+familiar adj
+
+owe v
+
+cottage n
+
+implication n
+
+imply v
+
+cushion n
+
+demonstration n
+
+alcohol n
+
+climate n
+
+emerge v
+
+assistance n
+
+cable n
+
+criterion n
+
+expensive adj
+
+practise v
+
+seize v
+
+coal n
+
+awareness n
+
+rip v
+
+council n
+
+rural adj
+
+extent n
+
+mortgage n
+
+appeal n v
+
+plane n
+
+achieve v
+
+preserve v
+
+glance n
+
+sausage n
+
+announcement n
+
+proportion n
+
+dumb adj
+
+publicity n
+
+effort n
+
+against prep
+
+rub v
+
+appropriate adj
+
+essential adj
+
+presumably adv
+
+presence n
+
+bitter adj
+
+remarkable adj
+
+consult v
+
+significant adj
+
+assess v
+
+ministry n
+
+each other pron
+
+glove n
+
+pupil n
+
+settlement n
+
+sensible adj
+
+highlight v
+
+spoil v
+
+sole adj
+
+significance n
+
+intelligent adj
+
+directory n
+
+civil adj
+
+briefly adv
+
+clerk n
+
+impose v
+
+blonde adj
+
+infection n
+
+conviction n
+
+considerable adj
+
+possession n
+
+account v
+
+revenue n
+
+chap n
+
+remark v
+
+quid n
+
+spirit n
+
+nil n
+
+opponent n
+
+closet n
+
+lid n
+
+nuisance n
+
+moral adj
+
+squad n
+
+injury n
+
+headquarters n
+
+commission n
+
+ethnic adj
+
+prior adj
+
+lorry n
+
+mere adj
+
+spot n v
+
+snap v
+
+pose v
+
+committee n
+
+keen adj
+
+petrol n
+
+gasoline n
+
+lower v
+
+financial adj
+
+award v
+
+enormous adj
+
+assign v
+
+steady adj
+
+pond n
+
+regard n
+
+occupation n
+
+arrange v
+
+charity n
+
+primarily adv
+
+provision n
+
+residential adj
+
+behalf n
+
+disappoint v
+
+argument n
+
+regulation n
+
+furniture n
+
+garage n
+
+hesitate v
+
+eventually adv
+
+activist n
+
+reception n
+
+fry v
+
+straightforward adj
+
+following adj
+
+household n
+
+cheek n
+
+journalist n
+
+mineral n
+
+announce v
+
+accuse v
+
+marvelous adj
+
+exception n
+
+ease v
+
+pension n
+
+reinforce v
+
+poet n
+
+interpretation n
+
+possess v
+
+lounge n
+
+stall n
+
+assume v
+
+settle v
+
+awkward adj
+
+cope v
+
+perspective n
+
+independence n
+
+likely adv
+
+conduct v n
+
+relevant adj
+
+resign v
+
+diet n
+
+lamb n
+
+pin n
+
+refrigerator n
+
+assessment n
+
+finance n v
+
+rhythm n
+
+colleague n
+
+considerably adv
 
 emergency n
 
+brief adj
+
+consciousness n
+
+informal adj
+
+campaign n
+
+rate n
+
+guidance n
+
+candidate n
+
+express v
+
+access n
+
+representation n
+
+distinction n
+
+offense n
+
+blow v n
+
+beneath adv prep
+
+spoon n
+
+angle n
+
+gather v
+
+prospect n
+
+stamp v
+
+ideal adj
+
+stretch v
+
+flavour n
+
+infant n
+
+adopt v
+
+lick v
+
+authority n
+
+distribute v
+
+cheque n
+
+deliberately adv
+
+march v n
+
+religious adj
+
+retain v
+
+distant adj
+
+gross adj
+
+providing conj
+
+literally adv
+
+generally adj
+
+nevertheless adv
+
+intend v
+
+praise n
+
+precisely adv
+
+strengthen v
+
+interval n
+
+personnel n
+
+bacon n
+
+divorce n
+
+garlic n
+
+accommodation n
+
+nerve n
+
+literary adj
+
+stare v
+
+distinguish v
+
+permanent adj
+
+rob v
+
+fellow n
+
+neck n
+
+crisis n
+
+promotion n
+
+consent n
+
+estimate n v
+
+illustrate v
+
+messy adj
+
+inspection n
+
+object v
+
+relief n
+
+jury n
+
+confusing adj
+
+spray v
+
+opposition n
+
+boom n
+
+anticipate v
+
+acid n
+
+stiff adj
+
+provided conj
+
+buck n
+
+professor n
+
+overtime n
+
+band n
+
+intelligence n
+
+enquiry n
+
+abroad adv
+
+hence adv
+
+despite prep
+
+proposed adj
+
+acknowledge v
+
+shove v
+
+creature n
+
+ounce n
+
+arise v
+
+responsible adj
+
+literature n
+
+bury v
+
+resignation n
+
+plate n
+
+proceeding n
+
+shave v
+
+practice n
+
+constitute v
+
+chuck v
+
+confine v
+
+sore adj
+
+rival n
+
+general adj
+
+filthy adj
+
+straw n
+
+dump v
+
+laboratory n
+
+democracy n
+
+architecture n
+
+apart adv adj
+
+spite n
+
+bunch n
+
+premise n
+
+decline n v
+
+prayer n
+
+fund n v
+
+bang v n
+
+leisure n
+
+clever adj
+
+sail v
+
+sexual adj
+
+abuse n
+
+allowance n
+
+curtain n
+
+spokesman n
+
+inspector n
+
+recovery n
+
+latter n
+
+reform n
+
+flesh n
+
+religion n
+
+shrug v
+
+spare adj v
+
+lecture n
+
+injure v
+
+principle n
+
+expenditure n
+
+priest n
+
+organ n
+
+dentist n
+
+pepper n
+
+crop n
+
+firm n adj
+
+courage n
+
+gradually adv
+
+convince v
+
+expression n
+
+impact n
+
+aircraft n
+
+spill v
+
+degree n
+
+proposal n
+
+millimeter n
+
+inform v
+
+holding n
+
+occupy v
+
+beard n
+
+fair adj adv
+
+bake v
+
+lamp n
+
+formal adj
+
+crowd n
+
+innovation n
+
+county n
+
+daft adj
+
+perform v
+
+feature n v
+
+estate n
+
+setting n
+
+fundamental adj
+
+decent adj
+
+conference n
+
+oven n
+
+circumstance n
+
+intention n
+
+incorporate v
+
+confusion n
+
+fairly adv
+
+intellectual adj
+
+reckon v
+
+carpet n
+
+inevitable adj
+
+affair n
+
+determined adj
+
+marketing n
+
+initiative n
+
+guard n
+
+stick v n
+
+military adj
+
+organic adj
+
+living n
+
+notion n
+
+misery n
+
+argue v
+
+hang v
+
+annual adj
+
+resort n
+
+consumption n
+
+decade n
+
+slight adj
+
+practically adv
+
+investigation n
+
+procedure n
+
+heating n
+
+derive v
+
+spread v
+
+ideally adv
+
+notably adv
+
+gene n
+
+presume v
+
+massive adj
+
+expense n
+
+owner n
+
+acquire v
+
+domestic adj
+
+oppose v
+
+crew n
+
+protest n
+
+represent v
+
+fridge n
+
+admission n
+
+artificial adj
+
+incident n
+
+publication n
+
+advert n
+
+motion n
+
+species n
+
+grateful adj
+
+so-called adj
+
+collar n
+
+strategic adj
+
+opposite prep
+
+moreover adv
+
+bound adj
+
+anxious adj
+
+proceed v
+
+architect n
+
+nasty adj
+
+accurate adj
+
+chest n
+
+poll n
+
+emphasize v
+
+attorney n
+
+pursue v
+
+goodness n
+
+pitch n
+
+practical adj
+
+stair n
+
+fault n
+
+strain n
+
+achievement n
+
+soil n
+
+deposit n
+
+continuous adj
+
+ought to modal
+
+spiritual adj
+
+otherwise adv
+
+honour n
+
+inevitably adv
+
 perception n
+
+minister n
+
+narrow adj
+
+apparent adj
+
+generation n
+
+intervention n
+
+stake n
+
+progress n
+
+packet n
+
+precise adj
+
+intense adj
+
+desert n
+
+deaf adj n
+
+perceive v
+
+mass n adj
+
+solicitor n
+
+manufacturing n
+
+curious adj
+
+absence n
+
+corn n
+
+breast n
+
+institution n
+
+one another pron
+
+negotiate v
+
+absorb v
+
+metal n
+
+fuss n
+
+polite adj
+
+enthusiasm n
+
+steep adj
+
+examination n
+
+profit n
+
+insurance n
+
+starve v
+
+occasion n
+
+budget n
+
+somewhat adv
+
+granny n
+
+squeeze v
+
+poster n
+
+stir v
+
+pollution n
+
+grocery n
+
+statistic n
