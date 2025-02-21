@@ -4,123 +4,123 @@ initiative n
 
 reserve n v
 
-assistant n
+- assistant n
 
-phase n
+- phase n
 
 regime n
 
-poverty n
+- poverty n
 
-glove n
+- glove n
 
 objection n
 
-cross adj n v
+- cross adj n v
 
 relieve v
 
-clerk n
+- clerk n
 
-insect n
+- insect n
 
 representative n
 
-snap v
+- snap v
 
-quid n
+- quid n
 
-numerous adj
+- numerous adj
 
-argument n
+- argument n
 
 cast v
 
-lower v
+- lower v
 
-contrast n
+- contrast n
 
 facility n
 
-assist v
+- assist v
 
-constant adj
+- constant adj
 
-provision n
+- provision n
 
-spot n v
+- spot n v
 
-bitter adj
+- bitter adj
 
 commission n
 
-address v
+- address v
 
-household n
+- household n
 
-phrase n
+- phrase n
 
-directory n
+- directory n
 
-involvement n
+- involvement n
 
-primarily adv
+- primarily adv
 
-each other pron
+- each other pron
 
 cushion n
 
-intelligent adj
+- intelligent adj
 
-chop v
+- chop v
 
-activist n
+- activist n
 
-regulation n
+- regulation n
 
-rip v
+- rip v
 
 conventional adj
 
 achieve v
 
-handy adj
+- handy adj
 
-lean v
+- lean v
 
-readily adv
+- readily adv
 
 approximate adj
 
 steady adj
 
-bin n
+- bin n
 
 broad adj
 
-scheme n
+- scheme n
 
 significant adj
 
-examine v
+- examine v
 
 convention n
 
-registration n
+- registration n
 
-bend v
+- bend v
 
-curve n
+- curve n
 
-independence n
+- independence n
 
-slip n
+- slip n
 
-nod v
+- nod v
 
-arrangement n
+- arrangement n
 
-occasional adj
+- occasional adj
 
 beforehand adv
 
