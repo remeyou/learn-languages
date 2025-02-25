@@ -128,7 +128,7 @@ airline n
 
 cable n
 
-pin n
+- pin n
 
 behalf n
 
@@ -136,13 +136,13 @@ inflation n
 
 council n
 
-expensive adj
+- expensive adj
 
 gasoline n
 
 moral adj
 
-financial adj
+- financial adj
 
 mechanism n
 
@@ -174,7 +174,7 @@ possession n
 
 investment n
 
-reinforce v
+- reinforce v
 
 principal adj
 
@@ -182,11 +182,11 @@ privilege n
 
 pupil n
 
-reduction n
+- reduction n
 
-era n
+- era n
 
-award v
+- award v
 
 nonsense n
 
@@ -198,7 +198,7 @@ cupboard n
 
 except v
 
-gang n
+- gang n
 
 prosecution n
 
@@ -216,7 +216,7 @@ solicitor n
 
 consult v
 
-enormous adj
+- enormous adj
 
 characterize v
 
@@ -224,17 +224,17 @@ ethnic adj
 
 lorry n
 
-blow v n
+- blow v n
 
 gather v
 
-remark v
+- remark v
 
 penalty n
 
 lay v
 
-formal adj
+- formal adj
 
 prospect n
 
@@ -254,17 +254,17 @@ bake v
 
 dispute n
 
-literally adv
+- literally adv
 
 sack n
 
-argue v
+- argue v
 
 along adv prep
 
-spoon n
+- spoon n
 
-ideal adj
+- ideal adj
 
 spoil v
 
@@ -276,9 +276,9 @@ essentially adv
 
 representation n
 
-plane n
+- plane n
 
-assign v
+- assign v
 
 kettle n
 
@@ -290,21 +290,21 @@ appointment n
 
 bacon n
 
-notion n
+- notion n
 
-practically adv
+- practically adv
 
-preserve v
+- preserve v
 
-cheque n
+- cheque n
 
 conviction n
 
-manner n
+- manner n
 
-settlement n
+- settlement n
 
-crowd n
+- crowd n
 
 misery n
 
@@ -312,7 +312,7 @@ depression n
 
 appeal n v
 
-value n
+- value n
 
 prior adj
 
@@ -324,15 +324,15 @@ annual adj
 
 thick adj
 
-democracy n
+- democracy n
 
 trailer n
 
-starve v
+- starve v
 
 sustain v
 
-hardly adv
+- hardly adv
 
 consequence n
 
@@ -352,43 +352,43 @@ comprehensive adj
 
 sausage n
 
-account v
+- account v
 
 committee n
 
-grant n v
+- grant n v
 
 stare v
 
 considerably adv
 
-apparent adj
+- apparent adj
 
 outstanding adj
 
 crew n
 
-distant adj
+- distant adj
 
-tear v
+- tear v
 
 nerve n
 
-likely adv
+- likely adv
 
-aircraft n
+- aircraft n
 
-occur v
+- occur v
 
 keen adj
 
-bench n
+- bench n
 
 tent n
 
 petrol n
 
-several pron
+- several pron
 
 conference n
 
@@ -408,7 +408,7 @@ circumstance n
 
 occupation n
 
-provided conj
+- provided conj
 
 injury n
 
@@ -420,19 +420,19 @@ sensible adj
 
 examination n
 
-informal adj
+- informal adj
 
-flat n
+- flat n
 
 discipline n
 
 undertake v
 
-generation n
+- generation n
 
 granny n
 
-buddy n
+- buddy n
 
 supper n
 
