@@ -448,19 +448,19 @@ determine v
 
 demonstration n
 
-fair adj adv
+- fair adj adv
 
 presume v
 
-finance n v
+- finance n v
 
 determination n
 
-profit n
+- profit n
 
 strain n
 
-squad n
+- squad n
 
 envelope n
 
@@ -476,7 +476,7 @@ intend v
 
 mere adj
 
-fuel n
+- fuel n
 
 tendency n
 
@@ -486,9 +486,9 @@ nevertheless adv
 
 ease v
 
-rural adj
+- rural adj
 
-precisely adv
+- precisely adv
 
 overall adj
 
@@ -506,33 +506,33 @@ ownership n
 
 investigate v
 
-telly
+- telly
 
-stamp v
+- stamp v
 
 deposit n
 
-studio n
+- studio n
 
-centimeter n
+- centimeter n
 
-slight adj
+- slight adj
 
-highlight v
+- highlight v
 
 tune n
 
-narrow adj
+- narrow adj
 
-toward prep
+- toward prep
 
-naughty adj
+- naughty adj
 
 lid n
 
 sequence n
 
-seek v
+- seek v
 
 conscious adj
 
@@ -542,15 +542,15 @@ generous adj
 
 despite prep
 
-officer n
+- officer n
 
 genuine adj
 
-considerable adj
+- considerable adj
 
 suspicious adj
 
-signature n
+- signature n
 
 distinguish v
 
@@ -562,31 +562,31 @@ justify v
 
 daft adj
 
-settle v
+- settle v
 
 essential adj
 
-spirit n
+- spirit n
 
-bear v
+- bear v
 
-suspect v
+- suspect v
 
-figure n v
+- figure n v
 
 sympathy n
 
 fund n v
 
-confusion n
+- confusion n
 
 revenue n
 
 bloke n
 
-long-term adj
+- long-term adj
 
-opportunity n
+- opportunity n
 
 threaten v
 
@@ -594,21 +594,21 @@ sole adj
 
 soil n
 
-survive v
+- survive v
 
-profession n
+- profession n
 
 divorce n
 
-accurate adj
+- accurate adj
 
-survival n
+- survival n
 
-inquiry n
+- inquiry n
 
 effort n
 
-division n
+- division n
 
 enthusiasm n
 
@@ -624,7 +624,7 @@ purse n
 
 crucial adj
 
-arrange v
+- arrange v
 
 appropriate adj
 
@@ -652,33 +652,33 @@ fancy adj v
 
 nuisance n
 
-nil n
+- nil n
 
 opponent n
 
 pace n
 
-alcohol n
+- alcohol n
 
 notably adv
 
-current n
+- current n
 
-guard n
+- guard n
 
-pollution n
+- pollution n
 
 consistent adj
 
-willing adj
+- willing adj
 
-professor n
+- professor n
 
 resident n
 
-further adv
+- further adv
 
-confusing adj
+- confusing adj
 
 beneath adv prep
 
@@ -686,117 +686,117 @@ admission n
 
 tray n
 
-boom n
+- boom n
 
 aware adj
 
-intellectual adj
+- intellectual adj
 
-civil adj
+- civil adj
 
-perform v
+- perform v
 
-promotion n
+- promotion n
 
 cope v
 
 gross adj
 
-backwards adv
+- backwards adv
 
-continuous adj
+- continuous adj
 
 scratch v
 
-dentist n
+- dentist n
 
 garage n
 
-assignment n
+- assignment n
 
-wicked adj
+- wicked adj
 
-massive adj
+- massive adj
 
-district n
+- district n
 
-eventually adv
+- eventually adv
 
-so-called adj
+- so-called adj
 
 contract n
 
-following adj
+- following adj
 
 county n
 
 plot n
 
-access n
+- access n
 
 ward n
 
-achievement n
+- achievement n
 
-spiritual adj
+- spiritual adj
 
-generally adj
+- generally adj
 
 transport n
 
-prayer n
+- prayer n
 
 witness n
 
 tricky adj
 
-whisky n
+- whisky n
 
 organ n
 
-whatsoever adv
+- whatsoever adv
 
-general adj
+- general adj
 
-literary adj
+- literary adj
 
-spokesman n
+- spokesman n
 
-hang v
+- hang v
 
-one another pron
+- one another pron
 
 flavour n
 
-unlike prep
+- unlike prep
 
-bury v
+- bury v
 
-rival n
+- rival n
 
 subsequent adj
 
-suspect v
+- suspect v
 
 stroke n
 
 bunch n
 
-laboratory n
+- laboratory n
 
-architecture n
+- architecture n
 
 lecture n
 
-firm n adj
+- firm n adj
 
-widespread adj
+- widespread adj
 
 intervention n
 
-stair n
+- stair n
 
-plate n
+- plate n
 
 occupy v
 
@@ -804,9 +804,9 @@ treaty n
 
 spare adj v
 
-buck n
+- buck n
 
-organic adj
+- organic adj
 
 grocery n
 
@@ -818,7 +818,7 @@ sail v
 
 dump v
 
-object v
+- object v
 
 offense n
 
@@ -828,17 +828,17 @@ domestic adj
 
 protest n
 
-emergency n
+- emergency n
 
-tone n
+- tone n
 
-towel n
+- towel n
 
-within prep
+- within prep
 
 toe n
 
-anxious adj
+- anxious adj
 
 stuff n
 
@@ -846,7 +846,7 @@ crisis n
 
 consumption n
 
-injure v
+- injure v
 
 spray v
 
@@ -864,23 +864,23 @@ express v
 
 arise v
 
-determined adj
+- determined adj
 
-tale n
+- tale n
 
-owner n
+- owner n
 
-weigh v
+- weigh v
 
 grateful adj
 
 perception n
 
-lick v
+- lick v
 
 tend v
 
-opposite prep
+- opposite prep
 
 motion n
 
@@ -890,9 +890,9 @@ trouser n
 
 intense adj
 
-oppose v
+- oppose v
 
-angle n
+- angle n
 
 allowance n
 
@@ -900,7 +900,7 @@ collar n
 
 candidate n
 
-fridge n
+- fridge n
 
 sore adj
 
@@ -908,33 +908,33 @@ shove v
 
 perceive v
 
-affair n
+- affair n
 
 emphasize v
 
 procedure n
 
-wide adj
+- wide adj
 
 derive v
 
-surgery n
+- surgery n
 
-otherwise adv
+- otherwise adv
 
 distinction n
 
-ideally adv
+- ideally adv
 
-carpet n
+- carpet n
 
-clever adj
+- clever adj
 
 reform n
 
-widely adv
+- widely adv
 
-providing conj
+- providing conj
 
 religious adj
 
@@ -944,9 +944,9 @@ resort n
 
 confine v
 
-sexual adj
+- sexual adj
 
-refrigerator n
+- refrigerator n
 
 perspective n
 
@@ -954,21 +954,21 @@ pub n
 
 accuse v
 
-rob v
+- rob v
 
-lively adj
+- lively adj
 
-setting n
+- setting n
 
-journalist n
+- journalist n
 
-precise adj
+- precise adj
 
 territory n
 
-bang v n
+- bang v n
 
-heating n
+- heating n
 
 admire v
 
@@ -976,15 +976,15 @@ interpretation n
 
 negotiate v
 
-vast adj
+- vast adj
 
-assistance n
+- assistance n
 
-rate n
+- rate n
 
 resignation n
 
-sweep v
+- sweep v
 
 invest v
 
@@ -992,83 +992,83 @@ lamb n
 
 formation n
 
-interval n
+- interval n
 
-poet n
+- poet n
 
 jam n
 
-pan n
+- pan n
 
 stick v n
 
-opposition n
+- opposition n
 
 cotton n
 
 bound adj
 
-illustrate v
+- illustrate v
 
-band n
+- band n
 
 folk n
 
 qualification n
 
-disappoint v
+- disappoint v
 
-chest n
+- chest n
 
-pint n
+- pint n
 
-appearance n
+- appearance n
 
-holding n
+- holding n
 
 stake n
 
-marvelous adj
+- marvelous adj
 
 medieval adj
 
-furniture n
+- furniture n
 
 incident n
 
 straw n
 
-scale n
+- scale n
 
 reckon v
 
-residential adj
+- residential adj
 
 architect n
 
-personnel n
+- personnel n
 
-valuable adj
+- valuable adj
 
-holder n
+- holder n
 
-diet n
+- diet n
 
 spill v
 
-publication n
+- publication n
 
 curious adj
 
-priest n
+- priest n
 
 publicity n
 
-virtually adv
+- virtually adv
 
-ceiling n
+- ceiling n
 
-ought to modal
+- ought to modal
 
 colleague n
 
